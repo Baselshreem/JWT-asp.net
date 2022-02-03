@@ -1,0 +1,107 @@
+﻿ 
+    <!DOCTYPE html>
+
+    <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <link href="Content/bootstrap.css" rel="stylesheet" />
+
+    </head>
+    <body style="padding-top:20px">
+        <div class="col-md-10-col-md-offset-1">
+
+            <div class="well">
+
+                <input type="button" id="loaddata" class="btn btn-success" value="loaddata" />
+
+
+
+            </div>
+
+            <div class="well hidden" id="divdata">
+
+                <table class="tab table-bordered" id="tabledata">
+                    <thead>
+
+                        <tr>
+
+                            <th>id</th>
+                            <th>farsname</th>
+                            <th>lastname </th>
+                            <th>gender</th>
+                            <th>salary</th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody id="tlbode">
+                    </tbody>
+                </table>
+            </div>
+
+
+            <div id="diverror" class="alert alert-danger collapse">
+
+                <a id="linkclose" class="close" href="#">&times;</a>
+                <div id="doverrortict"></div>
+            </div>
+        </div>
+        userinfoserv
+
+
+        <script src="Scripts/jquery-3.4.1.min.js"></script>
+        <script src="Scripts/bootstrap.min.js"></script>
+        <script type="text/javascript">
+
+
+            $(document).ready(function () {
+
+
+
+
+                $('#loaddata').click(function () {
+                     
+
+                    $.ajax({
+
+                        url: '/api/Values',
+
+                        method: 'GET',  
+
+                        headers: {
+                            'Authorization': 'Bearer '
+
+
+                        },
+
+                        success: function (data) {
+                            $('#divdata').removeClass('hidden');
+                            $('#tlbode').empty();
+                            $.each(data, function (index, value) {
+                                var row = $('<tr><td>' + value.id + '</td><td>'
+                                    + value.firstname + '</td><td>'
+                                    + value.lastname + '</td><td>'
+                                    + value.gender + '</td><td>'
+                                    + value.salary + '</td></tr>');
+                                $('#tabledata').append(row);
+
+                            });
+
+                        },
+
+
+
+                    });
+
+
+
+                });
+
+            });
+
+        </script>
+
+    </body>
+</html>

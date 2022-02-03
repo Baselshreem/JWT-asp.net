@@ -1,0 +1,107 @@
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.exe
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.deps.json
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.json
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.dev.json
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication11.StaticWebAssets.xml
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CopyComplete
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\My Laptop\source\repos\WebApplication11\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.genruntimeconfig.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.exe
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.deps.json
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.json
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.dev.json
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfo.cs
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication11.StaticWebAssets.xml
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication11.styles.css
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CopyComplete
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.genruntimeconfig.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.Views.dll
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.Views.pdb
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.TagHelpers.input.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.TagHelpers.output.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorCoreGenerate.cache
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\My Laptop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.Views.pdb
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.StaticWebAssets.xml
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.exe
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.deps.json
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.json
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.runtimeconfig.dev.json
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.Views.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\WebApplication11.Views.pdb
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.AssemblyReference.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfoInputs.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.AssemblyInfo.cs
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CoreCompileInputs.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorAssemblyInfo.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorAssemblyInfo.cs
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication11.StaticWebAssets.Manifest.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.TagHelpers.input.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.TagHelpers.output.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorCoreGenerate.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorTargetAssemblyInfo.cache
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.RazorTargetAssemblyInfo.cs
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.Views.pdb
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CopyComplete
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.dll
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.pdb
+C:\Users\basel\Desktop\source\repos\JWT\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.genruntimeconfig.cache
